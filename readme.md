@@ -85,6 +85,6 @@ ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
 ```
 
-## 2. Thêm mã vào Git Hub**
+## 2. Thêm mã vào Git Hub
 
 ***Settings -> Access -> SSH and GPG keys -> New SSH key -> Add SSH key***
