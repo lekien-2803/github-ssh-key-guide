@@ -1,5 +1,12 @@
 # Hướng dẫn tạo ssh key
 
+## Configure Git Username and Email Address
+
+```bash
+git config --global user.name "lekien-2803"
+git config --global user.email "lekien.2803.cg@gmail.com"
+```
+
 ## I. Tạo ssh key
 
 ### 1. Windows
