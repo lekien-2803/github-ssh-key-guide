@@ -4,6 +4,9 @@
 
 ```bash
 git config --global user.name "lekien-2803"
+```
+
+```bash
 git config --global user.email "lekien.2803.cg@gmail.com"
 ```
 
